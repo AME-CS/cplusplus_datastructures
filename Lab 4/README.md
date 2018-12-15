@@ -17,8 +17,8 @@ Remember to upload all files before submitting.
 **giftlist.cpp**
 
 ## Example run of program
-name for nice list: greg
-add gifts for greg
+-name for nice list: greg
+-add gifts for greg
 gift: legos
 gift: cookie
 gift:
