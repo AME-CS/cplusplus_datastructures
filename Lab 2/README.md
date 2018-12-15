@@ -1,4 +1,4 @@
-# Lab 2 (Click here to submit)
+# Lab 2 
 Do the following exercise from the book. Follow the instructions for all assignments (one link up) and any specific additional instructions for each problem. 
 
 Ch. 4, Programming Problem 8, pg. 157
@@ -19,7 +19,7 @@ Example UML Class Diagram (missing attributes)
 
 |   LinkedChar   |
 |---|
-| LinkedChar();  |
+| LinkedChar();c
 | LinkedChar(const std::string s);    |
 | int length() const;  |
 | int index(char ch) const; // -1 if no match  |
