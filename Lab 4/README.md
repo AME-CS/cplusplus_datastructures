@@ -30,22 +30,41 @@ Remember to upload all files before submitting.
 > name for nice list: bob
 
 > add gifts for bob
+
 > gift: monopoly
+
 > gift: candy cane
+
 > gift:
+
 > name for nice list: alice
+
 > add gifts for alice
+
 > gift: dress
+
 > gift:
+
 > name for nice list: tim
+
 > add gifts for tim
+
 > gift: superman comic
+
 > gift: car
+
 > gift: pony
+
 > gift:
+
 > name for nice list:
+
 > The list contains
+
 > greg  legos cookie
+
 > bob  monopoly candy cane
+
 > alice  dress
+
 > tim  superman comic car pony
