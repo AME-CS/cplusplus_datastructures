@@ -18,7 +18,6 @@ Quit
 Example UML Class Diagram (missing attributes)
 
 |   LinkedChar   |
-|     |
 |---|
 | LinkedChar();c
 | LinkedChar(const std::string s);    |
