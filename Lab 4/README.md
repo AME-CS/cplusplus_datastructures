@@ -18,11 +18,17 @@ Remember to upload all files before submitting.
 
 ## Example run of program
 > name for nice list: greg
+
 > add gifts for greg
+
 > gift: legos
+
 > gift: cookie
+
 > gift:
+
 > name for nice list: bob
+
 > add gifts for bob
 > gift: monopoly
 > gift: candy cane
